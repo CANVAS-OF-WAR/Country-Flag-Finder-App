@@ -27,8 +27,6 @@ body {
    display: flex;
    gap: 20px;
    padding: 20px;
-   width: auto;
-   height: auto;
 }
 
 #input {
